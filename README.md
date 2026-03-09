@@ -10,6 +10,6 @@ To compile the code, simply type in this command into the command line after pul
 
 This will initialize an executable in order of you to run. Then simply type in this command here
 
-"./hw2 <Bound> <Increment> "
+"./hw2 Bound Increment 
 
 These 2 numbers are put through a series of tests to determine if there will be lost data when the loop will occur.
